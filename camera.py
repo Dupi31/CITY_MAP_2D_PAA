@@ -72,7 +72,3 @@ class Camera:
         self.offset_x = min(max(0.0, self.offset_x), mx) if mx >= 0 else mx / 2
         self.offset_y = min(max(0.0, self.offset_y), my) if my >= 0 else my / 2
 
-
-# ============================================================
-# 5. MODUL VITO & APP — Integrator & UI/UX Dashboard
-# ============================================================

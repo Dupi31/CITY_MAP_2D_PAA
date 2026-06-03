@@ -374,7 +374,3 @@ class MapGenerator:
         self.objek_kota = self._bangun_objek_kota(cell_w, cell_h)
         self._bangun_graf_jalan()
         return self.graph_nodes
-
-# ============================================================
-# 2. MODUL ABDUL HAFIDZ — Matriks Kendaraan
-# ============================================================

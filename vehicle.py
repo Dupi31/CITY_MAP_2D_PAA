@@ -65,8 +65,3 @@ class Vehicle:
             {"points": self._rotasi_translate(stripe_kuning, p_sekarang, p_target), "fill": "#f1c40f", "outline": "", "width": 1},
             {"points": self._rotasi_translate(cockpit, p_sekarang, p_target), "fill": "#17202a", "outline": "#ecf0f1", "width": 1},
         ]
-
-
-# ============================================================
-# 3. MODUL RAHMAN — Penempatan Start/Finish + Routing Graph
-# ============================================================
